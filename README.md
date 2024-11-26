@@ -2,7 +2,7 @@
 
 
 
-## 🚀 Tecnologias
+<h1 align="center"> 🚀 Tecnologias </h1>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,9 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://github.com/MAGUBERT/CURSO.rocketseat-DEV_WEB/)
 
-## :memo: Licença
+<h1 align="center"> memo: Licença </h1>
 
 Esse projeto está sob a licença MIT.
 
